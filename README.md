@@ -53,7 +53,7 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 
 
 ## Deploy to Heroku
-
+https://heroku.com/deploy?template=https://github.com/rahultky/VCPlayerBot
 
 
 ## Deploy to Railway
